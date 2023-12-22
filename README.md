@@ -1,4 +1,4 @@
-# roop-unleashed
+# roop-uncovered
 
 [Changelog](#changelog) • [Usage](#usage) • [Wiki](https://github.com/C0untFloyd/roop-unleashed/wiki)
 
@@ -45,7 +45,7 @@ Please refer to the Wiki.
 - Windows: run the `windows_run.bat` from the Installer.
 - Linux: `python run.py`
 
-<a target="_blank" href="https://colab.research.google.com/github/C0untFloyd/roop-unleashed/blob/main/roop-unleashed.ipynb">
+<a target="_blank" href="https://colab.research.google.com/github/osushiski/roop-uncovered/blob/main/roop-uncvered.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
   
