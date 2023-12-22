@@ -45,7 +45,7 @@ Please refer to the Wiki.
 - Windows: run the `windows_run.bat` from the Installer.
 - Linux: `python run.py`
 
-<a target="_blank" href="https://colab.research.google.com/github/osushiski/roop-uncovered/blob/main/roop-uncvered.ipynb">
+<a target="_blank" href="https://colab.research.google.com/github/osushiski/roop-uncovered/blob/main/roop-uncovered.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
   
